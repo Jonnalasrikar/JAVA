@@ -1,0 +1,7 @@
+*primitive data types
+1.Integres-byte,short,int,long
+2.Decimal-float,double
+3.char
+4.boolean
+
+*non-primitive data type-created using primitive data types

@@ -1,0 +1,12 @@
+the operators are applied and evaluated based on precedence for example (+-) has less precendence than(*,/) * and / are evaluated first
+precendency-which operator are evaluated first (*,/),(+,-)
+associativity-from which direction-* and / left to right
+highest precendence goes to * and / they are then evaluated on the basis of left to right associativity
+int a=6*5-12/4;
+30-12/4
+30-3
+27
+
+int a=12/4-3*6
+3-18
+-15

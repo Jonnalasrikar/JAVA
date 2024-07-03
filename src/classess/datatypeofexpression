@@ -1,0 +1,10 @@
+->resulting data type after arthimetic operation
+b=byte,s=short,i=int,l=long,f=float
+r=b+s->int
+r=s+i->int
+r=l+f->float
+r=i+f->float
+r=c+i->int;
+r=c+s->int
+r=l+d->double;
+r=f+d>double
