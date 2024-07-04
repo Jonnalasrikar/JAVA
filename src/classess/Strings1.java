@@ -1,5 +1,6 @@
 // strings are immutable
 // string is a class 
+// special support for strings
 import java.util.Scanner;
 class String1
   {
