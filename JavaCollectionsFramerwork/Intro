@@ -1,0 +1,19 @@
+collections framework->a collection represents a group of objects In java collections provide classess and interfaces for us to be able to write code quickly and efficiently
+
+why we need collections:
+->we need collections for efficient storage and better manipulation of data in java
+for eg:we use arrays to store integers but what if we want 
+resize this array?
+insert an element in between?
+delete an element in array?
+apply certain operations to change this array?
+
+How are collections are available?
+Collections in java are available as classess and interfaces.Following are few commonly used collections in java:
+1.ArrayList->for variable size collections
+2.Set->for distinct collections
+3.Stack-> a lifo data structure
+4.HashMap-> for storing key value pairs
+
+collections class is available in java.util package Collections class also provides static methods for sorting,searching etc.
+ 

@@ -1,0 +1,8 @@
+Life cycle of thread
+1.New(Creation of thread)(Thread is not started at)(Instance of thread is created which is not yet started by invoking start())
+2.Runnabale-after invocation of start() and before it is selected to be run by the scheduler
+3.running-after thread scheduler has selected it
+4.Non-runnable-thread alive,not eligible to run
+5.Treminate-run() method has exitted
+
+runnable->non runnable->runnable->non runnable-> runnable.....

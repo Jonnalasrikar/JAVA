@@ -1,0 +1,9 @@
+multiple inheritance is not alowed in java but indirectly it can be acheived using interfaces
+*multiple inheritance ek se jada class use kareke ek child class bana sakahe
+*multiple inheritance face a problems when there exist methods with same signature in both the super classess
+*the is better way to define multiple inheritance in java
+//interfaces defines well
+smart phone-cellphone
+but smart phone is not a camera but it is used thor par use karte-interface
+interface->kise chese ke thor par use karethe
+smart phone --{gps,camera,media player} thor par use kar sakathe he -interface

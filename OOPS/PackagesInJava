@@ -1,0 +1,5 @@
+packages is used to group related classess
+packages avoid in name conflicts
+there are two types of packages:
+*built in packages
+*user defined package-custom packages

@@ -1,0 +1,22 @@
+class-blue print for creating objects/templete
+object-is an instantiation of a class  when a class is defined a templete is defined.Memory is allocated only after object instantiation
+OOPS terminology
+
+1.abstraction-hiding internal details,show only essential information
+
+
+2.encapsulation-the act of putting various components together(in a capsule)eg:car
+in java encapsulation simply means that the sensitive data can be hidden from the users
+
+3.Inheritance:the act of deriving new things from existing things
+phone->smartphone
+rickshaw->e-rickshaw //dry-dont repeat yourself
+
+4.polymorphism:one entity many forms
+smartphone-phone,smartphone-calculator
+smartphone-music player
+
+
+
+
+

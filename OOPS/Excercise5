@@ -1,0 +1,4 @@
+//you have to create a package named com.sri.shape 
+this package should have individual classess for rectangle,square,circle,cylinder,sphere
+these classess should use inhertiance to properly manage the code!
+include methods like volume,surface area and getters,setters for dimensions

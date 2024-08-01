@@ -1,0 +1,19 @@
+if(true(accepts the true or false))
+{
+execute
+}
+else
+{
+execute this
+}
+
+Relational operators: retrun true/false
+>=
+<=
+!=
+>
+<
+==
+
+==(used to equaltity check)
+while (=) is used to assignment operator

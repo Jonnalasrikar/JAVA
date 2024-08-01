@@ -1,0 +1,23 @@
+multiprocessing and multithreading both are used to acheive multitasking
+*multiprocessing-prforming multiple tasks at a time in os like running replit,chrome,whatsapp
+*process within multi tasking
+
+threads -hissa of process
+
+//in a nut shell
+*threads use shared memory area
+*threads-faster content switching(threads interact with each other)
+*a thread is light weigth whereas  a process is heavy weight
+
+example:a word processor can have one thread running in foreground as an editor and another in the background auto saving tghe document!
+
+without threading:main()->func1()->func2()->end
+withthreading:
+main()->
+func1() ->   end
+func2()->
+
+creating a thread:
+there are two ways to create a thread in java:
+1. by extending thread class
+2.by implementing runnable interface

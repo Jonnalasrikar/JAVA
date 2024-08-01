@@ -1,0 +1,23 @@
+interpreter-transulates one statement at a time into machine code
+complier-scans the entire program and transulates whole of it into machine code
+interpreter-something slow-python,c,c++
+*one statement at a time
+*interpreter is needed everytime
+*partial execution if error
+*usually easy for programmers
+complier-faster
+*entire program at a time
+*once complied it is not needed
+*no execution if error occurs
+*usually not as easy as interpreted ones
+
+//java is a hybrid language -both compiled as well as interpreted
+javafile(harry.java)->(compile)->class file(harry class)(byte code)->can be used by java interpreter
+
+to make platform independent- byte code is used in any machine windows,linux,mac
+//any jvm is used to interpret this bytecode
+//this bytecode can be taken to any platform(windows,linux,mac) for execution
+//hence java is platform independent
+
+javac harry.java->complied
+java harry ->interpreted
